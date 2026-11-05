@@ -19,6 +19,12 @@ irm https://raw.githubusercontent.com/wesskolen1-sys/zore-client-inspector/main/
 
 It downloads and starts straight away. Nothing is saved to disk.
 
+**Prefer clicking?** Download the launcher
+[ZoreInspector.bat](https://github.com/wesskolen1-sys/zore-client-inspector/releases/latest/download/ZoreInspector.bat)
+and open it. It runs the same command, so it always starts the newest version.
+Windows may ask "Do you want to run this file?": click **Run**. On a blue
+"Windows protected your PC" screen, click **More info -> Run anyway**.
+
 1. If PowerShell is not running as Administrator, Windows asks once. Click
    **Yes** and the scan opens in a new window. Clicking No continues with a
    limited scan.
